@@ -1,1 +1,1 @@
-# To-do App com Firebase 
+# To-do App com Firebase e CRUD Functionality
